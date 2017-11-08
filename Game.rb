@@ -1,3 +1,5 @@
+Nice Job Girl!! xoxo Rhece!
+
 control_var = ""
 until control_var == "exit"
 puts "Welcome to Trivia!"
